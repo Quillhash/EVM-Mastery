@@ -17,7 +17,9 @@
   </p>                   
 </div>
 
+<img src="https://github.com/Quillhash/EVM-Mastery/blob/main/files/EVM%20Mastery.png">
 
+[EVM-Mastery.pdf](https://github.com/Quillhash/EVM-Mastery/blob/main/files/EVM%20Mastery.pdf) 
 
 ## Content
 1. [Introduction](#introduction)
