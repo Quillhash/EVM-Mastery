@@ -104,7 +104,7 @@ By mastering the workings of the EVM, you not only equip yourself with the knowl
 - [Security reinforcement for Ethereum virtual machine](https://www.sciencedirect.com/science/article/abs/pii/S0306457321000674)
 - [EVM: From Offline Detection to Online Reinforcement for Ethereum Virtual Machine](https://ieeexplore.ieee.org/abstract/document/8668038)
 - [Neural-FEBI: Accurate function identification in Ethereum Virtual Machine bytecode☆](https://www.sciencedirect.com/science/article/pii/S0164121223000225)
-- [Visual emulation for Ethereum's virtual machine](https://github.com/Quillhash/EVM-Mastery/edit/main/README.md)
+- [Visual emulation for Ethereum's virtual machine](https://www.researchgate.net/publication/326280155_Visual_emulation_for_Ethereum%27s_virtual_machine)
 - [Toward Building Smart Contract-Based Higher Education Systems Using Zero-Knowledge Ethereum Virtual Machine](https://github.com/socathie/zkPhoto)
 - [Formal Process Virtual Machine for Smart Contracts Verification](https://arxiv.org/abs/1805.00808)
 - [Challenges and Opportunities in Smart Contract Development on the Ethereum Virtual Machine: A Systematic Literature Review](https://sol.sbc.org.br/index.php/wblockchain/article/view/24618)
